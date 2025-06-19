@@ -4,6 +4,6 @@ class NewText extends StatelessWidget {
   const NewText({super.key});
   @override
   Widget build(context) {
-    return Text("Hello dear");
+    return Text("Hello Rashid");
   }
 }
